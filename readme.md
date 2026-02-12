@@ -9,7 +9,7 @@
 - Firebase & Supabase
 
 ## Projects
-- [Time Tracking App](link-to-project)
+- [Time Tracking App](https://ozsiigfccpkny.mocha.app)
 - [Portfolio Website](link-to-project)
 
 ## Connect with me
