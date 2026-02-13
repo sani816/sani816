@@ -13,4 +13,4 @@
 - [Portfolio Website](link-to-project)
 
 ## Connect with me
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+[naurki.com](https://www.naukri.com/mnjuser/profile?id=&altresid))  
