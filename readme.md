@@ -13,4 +13,4 @@
 - [Portfolio Website](link-to-project)
 
 ## Connect with me
-[naurki.com](https://www.naukri.com/mnjuser/profile?id=&altresid))  
+[naurki.com](https://www.naukri.com/mnjuser/profile?id=&altresid) 
