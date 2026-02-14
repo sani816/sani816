@@ -10,7 +10,7 @@
 
 ## Projects
 - [Time Tracking App](https://ozsiigfccpkny.mocha.app)
-- [Portfolio Website](link-to-project)
+- [Smart Study Planner](https://plan-my-grades.lovable.app))
 
 ## Connect with me
 [naurki.com](https://www.naukri.com/mnjuser/profile?id=&altresid) 
